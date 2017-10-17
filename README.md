@@ -34,4 +34,13 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [TF-IDF与余弦相似性的应用（三）：自动摘要](http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html)
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
+## 工具
+- [Snipaste](https://www.snipaste.com/)——好用的跨平台截屏工具。
+- [Typora](https://www.typora.io/)——简洁的markdown编辑器，可通过多种方式导出(md、html、pdf、word、LeTeX、OPML、image etc.)！
+- [Ditto](http://ditto-cp.sourceforge.net/)——剪贴板增强工具，可以多次复制图片和文字。
+- [Mendeley](https://www.mendeley.com/)——文献管理平台。 
+- [NimbleText](http://nimbletext.com/)——轻松处理文本，例如复杂的替换，SQL生成、正则修改。
+- [Everything](http://www.voidtools.com/)——文件搜索神器。
+- [Gephi ](https://gephi.org/)——复杂网络数据可视化处理软件。
+
 
