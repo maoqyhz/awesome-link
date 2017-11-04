@@ -43,4 +43,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [Everything](http://www.voidtools.com/)——文件搜索神器。
 - [Gephi ](https://gephi.org/)——复杂网络数据可视化处理软件。
 
-
+## 在线工具
+- [在线Cron表达式生成](http://cron.qqe2.com/)——quartz框架中需要使用。
+- [ProcessOn](https://www.processon.com/)——在线会突然软件，好用过Visio。
+- [JSON字符串转Java实体类(JavaBean)](https://www.bejson.com/json2javapojo/new/)
