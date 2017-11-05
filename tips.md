@@ -4,8 +4,8 @@
 unix的时间戳和java中的是不同的。unix为10位，java的13位。需要进行转换。
 
  ```java
- long timestamps = 1509783992L
-long javaTimstamps = timestamps * 100
+ long timestamps = 1509783992L;
+long javaTimstamps = timestamps * 1000;
  ```
 - **navicat导出数据字典**
 
