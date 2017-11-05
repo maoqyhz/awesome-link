@@ -2,6 +2,9 @@
 
 积累一些自己看过的比较好的技术博客。以后忘记了可以回过头来看，毕竟有些博客已经写的非常的好了。有些自己写的也会列举在上面。
 
+## 自己踩过的坑
+- [自己踩过的坑](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
+
 ## 各种轮子
 
 - [**DbUtils**](http://commons.apache.org/proper/commons-dbutils/)——apache common的组件，无配置，代码较jdbc简洁。
