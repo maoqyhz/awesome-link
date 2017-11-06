@@ -24,11 +24,13 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 
 
 ## 编码规范
+高质量的代码需求。
 - [google编码规范](https://github.com/google/styleguide)
 - [阿里巴巴Java开发手册](https://pan.baidu.com/s/1nuZZrNN) 
 - [ssm开发中的编码规范](https://zhuanlan.zhihu.com/c_120823325)
 
 ## 机器学习
+机器学习需要较好的数学功底，下面的文章是精选出来比较通俗易懂的，值得一看。
 - [Rachel Zhang的机器学习专栏](http://blog.csdn.net/abcjennifer/article/category/1173803/3)
 - [线性回归与梯度下降法[一]——原理与实现](http://www.cnblogs.com/Sinte-Beuve/p/6164689.html)
 - [线性回归与梯度下降法[二]——优化与比较](http://www.cnblogs.com/Sinte-Beuve/p/6188145.html)
@@ -37,7 +39,10 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [TF-IDF与余弦相似性的应用（三）：自动摘要](http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html)
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
+## API调用认证
+
 ## 工具
+奇技淫巧系列，工欲善其事，必先利其器。
 - [Snipaste](https://www.snipaste.com/)——好用的跨平台截屏工具。
 - [Typora](https://www.typora.io/)——简洁的markdown编辑器，可通过多种方式导出(md、html、pdf、word、LeTeX、OPML、image etc.)！
 - [Ditto](http://ditto-cp.sourceforge.net/)——剪贴板增强工具，可以多次复制图片和文字。
@@ -50,3 +55,15 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [在线Cron表达式生成](http://cron.qqe2.com/)——quartz框架中需要使用。
 - [ProcessOn](https://www.processon.com/)——在线会突然软件，好用过Visio。
 - [JSON字符串转Java实体类(JavaBean)](https://www.bejson.com/json2javapojo/new/)
+- [cmd markdown编辑器](https://www.zybuluo.com)——markdown编辑器
+- [马克飞象](https://maxiang.io/)——markdown编辑器
+
+## awesome-web系列
+- [awesome大全](https://github.com/sindresorhus/awesome)——awesome系列，包含了各种开发技术的大量类库、工具、开源代码等。
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)——知名博主。
+- [廖雪峰python教程](https://www.liaoxuefeng.com)——python教程和git教程非常值得一看！
+- [coursera](https://www.coursera.org/)——吴恩达创办的mooc课程，学习国外名校课程必备。
+- [kaggle](https://www.kaggle.com)——知名数据挖据竞赛网站。
+- [UCI数据集](http://archive.ics.uci.edu/ml/datasets.html)——机器学习初学者必备，里面有大量的数据集可供使用。
+- [distrowatch](http://distrowatch.com/)——最全的linux发行版介绍网站，里面有所有的linux发行版的简介和排名。
+- [osboxes](http://www.osboxes.org/)——开箱即用的虚拟机下载。里面包含了各种linux发行版的镜像，支持VMware和Virtual box。
