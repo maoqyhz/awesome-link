@@ -40,6 +40,11 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
 ## API调用认证
+- [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
+- [ten things you should know about tokens and cookies](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
+- [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+- [什么是JWT](http://www.jianshu.com/p/576dbf44b2ae)
+
 
 ## 工具
 奇技淫巧系列，工欲善其事，必先利其器。
