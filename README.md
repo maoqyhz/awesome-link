@@ -6,7 +6,11 @@
 - [自己踩过的坑](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
 
 ## 各种轮子
-
+- [**dapper-dot-net(C#)**](https://github.com/StackExchange/Dapper)——Dapper - a simple object mapper for .Net.Stack Overflow出品。
+	- [Dapper的基本使用](http://www.cnblogs.com/Sinte-Beuve/p/4231053.html)
+	- [Stackoverflow/dapper的Dapper-Extensions用法（一）](http://www.cnblogs.com/Sinte-Beuve/p/4612971.html)
+	- [Stackoverflow/dapper的Dapper-Extensions用法（二）](http://www.cnblogs.com/Sinte-Beuve/p/4617374.html)
+	- [Dapper、Entity Framework 和混合应用](http://blog.jobbole.com/101261/)	
 - [**DbUtils**](http://commons.apache.org/proper/commons-dbutils/)——apache common的组件，无配置，代码较jdbc简洁。
 	- [开源框架：DBUtils使用详解](http://blog.csdn.net/samjustin1/article/details/52220423)
 	- [Apache的DBUtils框架学习](http://blog.csdn.net/yerenyuan_pku/article/details/52372703)
@@ -41,6 +45,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 
 ## API调用认证
 - [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
+- [几种移动app API调用认证方案浅析](http://www.cnblogs.com/Sinte-Beuve/p/7822856.html)
 - [ten things you should know about tokens and cookies](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
 - [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 - [什么是JWT](http://www.jianshu.com/p/576dbf44b2ae)
@@ -55,6 +60,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [NimbleText](http://nimbletext.com/)——轻松处理文本，例如复杂的替换，SQL生成、正则修改。
 - [Everything](http://www.voidtools.com/)——文件搜索神器。
 - [Gephi ](https://gephi.org/)——复杂网络数据可视化处理软件。
+- [dexpot](http://www.dexpot.de/)——虚拟桌面。win10默认有，但是这个软件据说更强大，可在win7上用。
 
 ## 在线工具
 - [在线Cron表达式生成](http://cron.qqe2.com/)——quartz框架中需要使用。
