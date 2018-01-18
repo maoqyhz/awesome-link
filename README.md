@@ -4,6 +4,7 @@
 
 ## 自己踩过的坑
 - [自己踩过的坑](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
+- [Jeecg踩坑不完全指南](http://www.cnblogs.com/Sinte-Beuve/p/8290200.html)
 
 ## 各种轮子
 - [**dapper-dot-net(C#)**](https://github.com/StackExchange/Dapper)——Dapper - a simple object mapper for .Net.Stack Overflow出品。
