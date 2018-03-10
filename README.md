@@ -44,6 +44,13 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [TF-IDF与余弦相似性的应用（三）：自动摘要](http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html)
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
+## 神经网络
+- [Rachel Zhang的机器学习专栏](http://blog.csdn.net/abcjennifer/article/category/1173803/3)
+- [Introduction to Restricted Boltzmann Machines](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
+- [受限制玻尔兹曼机RBM原理简介](http://blog.csdn.net/u010223750/article/details/60882390)
+- [deeplearningbook book](https://github.com/exacity/deeplearningbook-chinese)
+- [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
 ## API调用认证
 - [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
 - [几种移动app API调用认证方案浅析](http://www.cnblogs.com/Sinte-Beuve/p/7822856.html)
