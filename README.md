@@ -45,7 +45,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
 ## 神经网络
-- [Rachel Zhang的机器学习专栏](http://blog.csdn.net/abcjennifer/article/category/1173803/3)
+- [[Machine Learning & Algorithm] 神经网络基础](http://www.cnblogs.com/maybe2030/p/5597716.html)
 - [Introduction to Restricted Boltzmann Machines](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
 - [受限制玻尔兹曼机RBM原理简介](http://blog.csdn.net/u010223750/article/details/60882390)
 - [deeplearningbook book](https://github.com/exacity/deeplearningbook-chinese)
