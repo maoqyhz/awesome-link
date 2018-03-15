@@ -45,11 +45,18 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 
 ## 神经网络
+神经网络的简介，书籍和视频。
 - [[Machine Learning & Algorithm] 神经网络基础](http://www.cnblogs.com/maybe2030/p/5597716.html)
-- [Introduction to Restricted Boltzmann Machines](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
-- [受限制玻尔兹曼机RBM原理简介](http://blog.csdn.net/u010223750/article/details/60882390)
 - [deeplearningbook book](https://github.com/exacity/deeplearningbook-chinese)
 - [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+## RBM和DBN
+深度学习中受限的玻尔兹曼机和深度置信网络的相关原理和基于theano的代码实现。
+- [受限制玻尔兹曼机RBM原理简介](http://blog.csdn.net/u010223750/article/details/60882390)
+- [Restricted Boltzmann Machines (RBM)](http://deeplearning.net/tutorial/rbm.html)
+- [Deep Belief Networks](http://deeplearning.net/tutorial/DBN.html)
+- [theano学习指南--深度置信网络(DBN)（翻译）](http://blog.csdn.net/zhaoyu106/article/details/52368875)
+- [theano学习指南--深度置信网络(DBN)（源码）](http://blog.csdn.net/zhaoyu106/article/details/52425020)
 
 ## API调用认证
 - [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
