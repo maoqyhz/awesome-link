@@ -3,7 +3,7 @@
 积累一些自己看过的比较好的技术博客。以后忘记了可以回过头来看，毕竟有些博客已经写的非常的好了。有些自己写的也会列举在上面。
 
 ## 自己踩过的坑
-- [自己踩过的坑](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
+- [语法点记录](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
 - [Jeecg踩坑不完全指南](http://www.cnblogs.com/Sinte-Beuve/p/8290200.html)
 
 ## 各种轮子
