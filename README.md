@@ -1,10 +1,13 @@
 # 开发学习中的日常积累
+@(技术)
 
 积累一些自己看过的比较好的技术博客。以后忘记了可以回过头来看，毕竟有些博客已经写的非常的好了。有些自己写的也会列举在上面。
 
-## 自己踩过的坑
-- [语法点记录](https://github.com/maoqyhz/Awesome-Link/blob/master/tips.md)
-- [Jeecg踩坑不完全指南](http://www.cnblogs.com/Sinte-Beuve/p/8290200.html)
+> 关于我
+
+- [个人博客](http://www.cnblogs.com/Sinte-Beuve/)
+- Email: bWFvcXloekBvdXRsb29rLmNvbQ==
+- Weibo: [@_Fururur](https://weibo.com/u/3160001350)
 
 ## 各种轮子
 - [**dapper-dot-net(C#)**](https://github.com/StackExchange/Dapper)——Dapper - a simple object mapper for .Net.Stack Overflow出品。
@@ -20,6 +23,7 @@
 - [**Lombok**](https://projectlombok.org/)——简化POJO的getter/setter。
 - [**Dozer**](https://github.com/DozerMapper/dozer)——Java Bean映射
 - [**MapStruct**](http://mapstruct.org/) ——Java Bean映射
+- [Jeecg踩坑不完全指南](http://www.cnblogs.com/Sinte-Beuve/p/8290200.html)
 
 ## java编码问题
 java字符串都采用unicode编码。需要深入了解java编码的，而不是在遇到乱码问题时病急乱投医的，可以参考一下文章。
@@ -27,12 +31,19 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [Java与编码问题串讲之二--如何理解java采用Unicode编码](http://blog.csdn.net/shijinupc/article/details/7679945)
 - [java中文乱码解决之道（六）—–javaWeb中的编码解码](http://cmsblogs.com/?p=1510)
 
-
 ## 编码规范
 高质量的代码需求。
 - [google编码规范](https://github.com/google/styleguide)
 - [阿里巴巴Java开发手册](https://pan.baidu.com/s/1nuZZrNN) 
 - [ssm开发中的编码规范](https://zhuanlan.zhihu.com/c_120823325)
+
+## API调用认证
+- [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
+- [几种移动app API调用认证方案浅析](http://www.cnblogs.com/Sinte-Beuve/p/7822856.html)
+- [ten things you should know about tokens and cookies](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
+- [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+- [什么是JWT](http://www.jianshu.com/p/576dbf44b2ae)
+
 
 ## 机器学习
 机器学习需要较好的数学功底，下面的文章是精选出来比较通俗易懂的，值得一看。
@@ -42,14 +53,19 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [TF-IDF与余弦相似性的应用（一）：自动提取关键词](http://www.ruanyifeng.com/blog/2013/03/tf-idf.html)
 - [TF-IDF与余弦相似性的应用（二）：找出相似文章](http://www.ruanyifeng.com/blog/2013/03/cosine_similarity.html)
 - [TF-IDF与余弦相似性的应用（三）：自动摘要](http://www.ruanyifeng.com/blog/2013/03/automatic_summarization.html)
-- [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
+
 
 ## 神经网络
 神经网络的简介，书籍和视频。
+- [一文弄懂神经网络中的反向传播法——BackPropagation](http://www.cnblogs.com/charlotte77/p/5629865.html)
 - [[Machine Learning & Algorithm] 神经网络基础](http://www.cnblogs.com/maybe2030/p/5597716.html)
 - [deeplearningbook book](https://github.com/exacity/deeplearningbook-chinese)
 - [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
+## 特征工程和模型评估
+- [模型评估：评价指标-附sklearn API](https://blog.csdn.net/shine19930820/article/details/78335550)
+- [结合Scikit-learn介绍几种常用的特征选择方法](https://blog.csdn.net/bryan__/article/details/51607215)
+- [使用sklearn做单机特征工程](https://www.cnblogs.com/jasonfreak/p/5448385.html)
 ## RBM和DBN
 深度学习中受限的玻尔兹曼机和深度置信网络的相关原理和基于theano的代码实现。
 - [受限制玻尔兹曼机RBM原理简介](http://blog.csdn.net/u010223750/article/details/60882390)
@@ -58,12 +74,16 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [theano学习指南--深度置信网络(DBN)（翻译）](http://blog.csdn.net/zhaoyu106/article/details/52368875)
 - [theano学习指南--深度置信网络(DBN)（源码）](http://blog.csdn.net/zhaoyu106/article/details/52425020)
 
-## API调用认证
-- [[译]移动API安全终极指南](http://www.cnblogs.com/Sinte-Beuve/p/7795438.html)
-- [几种移动app API调用认证方案浅析](http://www.cnblogs.com/Sinte-Beuve/p/7822856.html)
-- [ten things you should know about tokens and cookies](https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/)
-- [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-- [什么是JWT](http://www.jianshu.com/p/576dbf44b2ae)
+
+
+## 面试经
+- [成为架构师的路上，看这一篇文章就足够了，因为……](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651006653&idx=1&sn=6c0cc3bd8fe71400f869a88959bf6b4d&chksm=bdbedeee8ac957f86617c95c77df107c9b1382581ee630c43c38b00d422ad8c84496dc84084d&mpshare=1&scene=1&srcid=0406zZku0JoYkR3b3tJF2mcC#rd)
+- [Java面试通关要点汇总集【终极版】2018-3-21](http://blog.720ui.com/2018/java_interview_final/)
+
+## 知名博主
+- [莫烦Python](https://morvanzhou.github.io/)——包含python、机器学习、深度学习等理论和实践的教程。
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)——知名博主。
+- [廖雪峰python教程](https://www.liaoxuefeng.com)——python教程和git教程非常值得一看！
 
 
 ## 工具
@@ -83,14 +103,14 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [JSON字符串转Java实体类(JavaBean)](https://www.bejson.com/json2javapojo/new/)
 - [cmd markdown编辑器](https://www.zybuluo.com)——markdown编辑器
 - [马克飞象](https://maxiang.io/)——markdown编辑器
+- [批量uuid生成](http://www.uuid.online/)
 
 ## awesome-web系列
 - [awesome大全](https://github.com/sindresorhus/awesome)——awesome系列，包含了各种开发技术的大量类库、工具、开源代码等。
-- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)——知名博主。
-- [廖雪峰python教程](https://www.liaoxuefeng.com)——python教程和git教程非常值得一看！
 - [coursera](https://www.coursera.org/)——吴恩达创办的mooc课程，学习国外名校课程必备。
 - [kaggle](https://www.kaggle.com)——知名数据挖据竞赛网站。
 - [UCI数据集](http://archive.ics.uci.edu/ml/datasets.html)——机器学习初学者必备，里面有大量的数据集可供使用。
 - [distrowatch](http://distrowatch.com/)——最全的linux发行版介绍网站，里面有所有的linux发行版的简介和排名。
 - [osboxes](http://www.osboxes.org/)——开箱即用的虚拟机下载。里面包含了各种linux发行版的镜像，支持VMware和Virtual box。
 - [bitnami](https://bitnami.com/)——安装 Web应用程序和解决方案堆栈，以及虚拟设备的开源软件包。很多类似LAMP、django、TensorFlow、redmine、wordpress都能一件部署。
+- [virustotal](https://www.virustotal.com) —— 在线URL、恶意样本检测平台
