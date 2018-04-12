@@ -79,6 +79,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 ## 面试经
 - [成为架构师的路上，看这一篇文章就足够了，因为……](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651006653&idx=1&sn=6c0cc3bd8fe71400f869a88959bf6b4d&chksm=bdbedeee8ac957f86617c95c77df107c9b1382581ee630c43c38b00d422ad8c84496dc84084d&mpshare=1&scene=1&srcid=0406zZku0JoYkR3b3tJF2mcC#rd)
 - [Java面试通关要点汇总集【终极版】2018-3-21](http://blog.720ui.com/2018/java_interview_final/)
+- [面试过阿里等互联网大公司，我知道了这些套路](https://blog.csdn.net/tzs_1041218129/article/details/78024225)
 
 ## 知名博主
 - [莫烦Python](https://morvanzhou.github.io/)——包含python、机器学习、深度学习等理论和实践的教程。
