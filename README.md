@@ -5,7 +5,8 @@ Share some awesome blogs.
 
 > 关于我
 
-- [个人博客](http://www.cnblogs.com/Sinte-Beuve/)
+- [我的博客园](http://www.cnblogs.com/Sinte-Beuve/)
+- [个人博客](http://furur.xyz)
 - Email: bWFvcXloekBvdXRsb29rLmNvbQ==
 - Weibo: [@_Fururur](https://weibo.com/u/3160001350)
 
@@ -74,7 +75,9 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [theano学习指南--深度置信网络(DBN)（翻译）](http://blog.csdn.net/zhaoyu106/article/details/52368875)
 - [theano学习指南--深度置信网络(DBN)（源码）](http://blog.csdn.net/zhaoyu106/article/details/52425020)
 
-
+## Git使用参考
+- [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)——侧重个人的操作
+- [Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)——侧重团队协作
 
 ## 面试经
 - [成为架构师的路上，看这一篇文章就足够了，因为……](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651006653&idx=1&sn=6c0cc3bd8fe71400f869a88959bf6b4d&chksm=bdbedeee8ac957f86617c95c77df107c9b1382581ee630c43c38b00d422ad8c84496dc84084d&mpshare=1&scene=1&srcid=0406zZku0JoYkR3b3tJF2mcC#rd)
