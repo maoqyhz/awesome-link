@@ -79,7 +79,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)——侧重个人的操作
 - [Git 使用规范流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)——侧重团队协作
 - [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)——git-flow
-- [Git 工作流程](http://www.ruanyifeng.com/blog/2015/08/git-use-process.html)——介绍了三种Git工作流程
+- [Git 工作流程](http://www.ruanyifeng.com/blog/2015/12/git-workflow.html)——介绍了三种Git工作流程
 - [Git merge和rebase的区别](http://gitbook.liuhui998.com/4_2.html)
 
 ## 面试经
@@ -103,6 +103,7 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 - [Everything](http://www.voidtools.com/)——文件搜索神器。
 - [Gephi ](https://gephi.org/)——复杂网络数据可视化处理软件。
 - [dexpot](http://www.dexpot.de/)——虚拟桌面。win10默认有，但是这个软件据说更强大，可在win7上用。
+- [natapp](https://natapp.cn/)——基于ngrok的国内高速内网穿透服务。使用这个可以本地化调试微信或支付宝接口。
 
 ## 在线工具
 - [在线Cron表达式生成](http://cron.qqe2.com/)——quartz框架中需要使用。
