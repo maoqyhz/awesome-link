@@ -1,6 +1,4 @@
 # Awesome Blogs & Tools
-Share some awesome blogs.
-
 > About Me
 
 - [my cnblogs](http://www.cnblogs.com/Sinte-Beuve/)
