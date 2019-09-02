@@ -41,5 +41,4 @@ java字符串都采用unicode编码。需要深入了解java编码的，而不�
 ## Spring Cloud教程
 - [Wind Mt——Spring Cloud](https://windmt.com/tags/Spring-Cloud/page/3/)
 - [纯洁的微笑——Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)
-- [程序猿DD——Spring Cloud 从入门到精通
-](http://blog.didispace.com/spring-cloud-learning/)
+- [程序猿DD——Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/)
