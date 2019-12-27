@@ -71,7 +71,13 @@
 
 ##  其他
 
+### 镜像或仓库
+
+- [UCI-pythonlib](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+- [七牛云镜像中心](https://hub.qiniu.com/home#page=web)
+
 ### 工具
+
 奇技淫巧系列，工欲善其事，必先利其器。
 - [Snipaste](https://www.snipaste.com/)——好用的跨平台截屏工具。
 - [Typora](https://www.typora.io/)——简洁的markdown编辑器，可通过多种方式导出(md、html、pdf、word、LeTeX、OPML、image etc.)！
@@ -92,7 +98,15 @@
 - [JSON View Editor](http://www.jsonohyeah.com/)
 - [DO Nginx配置文件生成](https://www.digitalocean.com/community/tools/nginx)
 
+### 开源项目
+
+- [YApi](https://github.com/YMFE/yapi)——YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+- [portainer](https://www.portainer.io/)——可视化Docker管理工具
+
+
+
 ### awesome-web系列
+
 - [awesome大全](https://github.com/sindresorhus/awesome)——awesome系列，包含了各种开发技术的大量类库、工具、开源代码等。
 - [distrowatch](http://distrowatch.com/)——最全的linux发行版介绍网站，里面有所有的linux发行版的简介和排名。
 - [osboxes](http://www.osboxes.org/)——开箱即用的虚拟机下载。里面包含了各种linux发行版的镜像，支持VMware和Virtual box。
