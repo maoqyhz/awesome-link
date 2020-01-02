@@ -73,6 +73,8 @@
 
 ### 镜像或仓库
 
+- [阿里云镜像中心](https://developer.aliyun.com/mirror)
+
 - [UCI-pythonlib](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [七牛云镜像中心](https://hub.qiniu.com/home#page=web)
 
